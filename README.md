@@ -5,7 +5,7 @@ A full-stack solution built to solve the **Identity Reconciliation** challenge. 
 ---
 
 ## 🚀 Live Deployment
-**Check out the live project here:** [Insert Your Deployed Link Here]
+**Check out the live project here:** [https://bitespeed-identity-4.onrender.com]
 
 ---
 
@@ -29,8 +29,10 @@ You can find the visual walkthrough of the API and UI in the `backend/screenshot
 ### **System Preview**
 
 | Application UI | API Logic / Database |
-| :---: | :---: |
-| ![Frontend Screen](./backend/screenshots/Screenshot 2026-03-03 085716.png) | ![Backend Logic](./backend/screenshots/backend.png) |
+| :---: | :---: |<img width="1753" height="857" alt="Screenshot 2026-03-03 085716" src="https://github.com/user-attachments/assets/2bd9be86-6116-48b0-aa13-86bf9e4a64bb" />
+
+| ![Frontend Screen](./backend/screenshots/Screenshot 2026-03-03 085716.png) | ![Backend Logic](<img width="1514" height="830" alt="Screenshot 2026-03-03 083215" src="https://github.com/user-attachments/assets/769d3c3b-5d7d-418c-91cc-242fcfd1adec" />
+./backend/screenshots/backend.png) |
 | *User Interface for Contact Submission* | *Identity Reconciliation Flow* |
 
 ---
