@@ -30,7 +30,7 @@ You can find the visual walkthrough of the API and UI in the `backend/screenshot
 
 | Application UI | API Logic / Database |
 | :---: | :---: |
-| ![Frontend Screen](./backend/screenshots/frontend.png) | ![Backend Logic](./backend/screenshots/backend.png) |
+| ![Frontend Screen](./backend/screenshots/Screenshot 2026-03-03 085716.png) | ![Backend Logic](./backend/screenshots/backend.png) |
 | *User Interface for Contact Submission* | *Identity Reconciliation Flow* |
 
 ---
